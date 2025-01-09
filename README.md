@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello! I'm Raksha Jaiswal, a employee at SmartData Pvt. Ltd. in Nagpur. My journey in tech has led me to explore a range of technologies, including HTML, CSS, JavaScript, Angular, .NET Core, and SQL.<br><br>Beyond coding, I thrive in community-building and leadership roles. During my college days, I served as a co-editor for our forum "Encypherist" and spearheaded the creation of a vibrant web development community alongside my friends.<br><br>Let's connect and collaborate on exciting projects together!<br><br>Feel free to adjust it to your liking!
+👋 Hello! I'm Raksha Jaiswal, a employee at SmartData Pvt. Ltd. in Nagpur. My journey in tech has led me to explore a range of technologies, including HTML, CSS, JavaScript, Angular, .NET Core, and SQL.<br><br>Beyond coding, I thrive in community-building and leadership roles. During my college days, I served as a co-editor for our forum "Encypherist" and spearheaded the creation of a vibrant web development community alongside my friends.<br><br>Let's connect and collaborate on exciting projects together!<br>
 
 
 # 💻 Tech Stack:
